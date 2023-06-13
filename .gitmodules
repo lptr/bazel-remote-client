@@ -1,0 +1,3 @@
+[submodule "remote-apis"]
+	path = remote-apis
+	url = https://github.com/bazelbuild/remote-apis
